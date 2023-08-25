@@ -11,6 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello Xander\n");
+  printf("Hello Xander!\n");
+  printf("Major is Computer Science\n");
 
 }
